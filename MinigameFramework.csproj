@@ -10,4 +10,10 @@
     <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Framework\Entities\" />
+    <Folder Include="Framework\Physics\" />
+    <Folder Include="Framework\Scenes\" />
+  </ItemGroup>
+
 </Project>
